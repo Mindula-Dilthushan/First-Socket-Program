@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<h3> Scan QR Code </h3>
-
 <img src="https://github.com/Mindula-Dilthushan/First-Socket-Program/blob/master/assets/First_Socket_Programming.jpg"> 
 </div>
 
@@ -20,7 +18,7 @@ git clone https://github.com/Mindula-Dilthushan/First-Socket-Program.git
 ![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/First-Socket-Program?&labelColor=black&color=8854d0&style=for-the-badge)
 
 ### License 📝
-[![GitHub license](https://img.shields.io/github/license/Mindula-Dilthushan/First-Socket-Program?&labelColor=black&color=3867d6&style=for-the-badge)]()
+[![GitHub license](https://img.shields.io/github/license/Mindula-Dilthushan/First-Socket-Program?&labelColor=black&color=3867d6&style=for-the-badge)](#)
 
 <div align="center">
 
